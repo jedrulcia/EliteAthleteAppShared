@@ -1,0 +1,14 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.csproj.AssemblyReference.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\bin\Debug\net8.0\EliteAthleteAppShared.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\bin\Debug\net8.0\EliteAthleteAppShared.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\bin\Debug\net8.0\EliteAthleteAppShared.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\bin\Debug\net8.0\EliteAthleteAppShared.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\refint\EliteAthleteAppShared.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\ref\EliteAthleteAppShared.dll
