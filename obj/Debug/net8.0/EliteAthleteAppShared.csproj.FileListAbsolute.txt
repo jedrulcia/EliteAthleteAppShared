@@ -12,3 +12,4 @@ C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\ob
 C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.pdb
 C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.genruntimeconfig.cache
 C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\ref\EliteAthleteAppShared.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\EliteAthleteAppShared\obj\Debug\net8.0\EliteAthleteAppShared.sourcelink.json

@@ -55,18 +55,6 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "Azure.Storage.Blobs": {
-              "target": "Package",
-              "version": "[12.23.0, )"
-            },
-            "Google.Apis.Auth": {
-              "target": "Package",
-              "version": "[1.68.0, )"
-            },
-            "Google.Apis.Drive.v3": {
-              "target": "Package",
-              "version": "[1.68.0.3601, )"
-            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -76,10 +64,6 @@
               "version": "[8.0.10, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.AspNetCore.SignalR.Common": {
               "target": "Package",
               "version": "[8.0.10, )"
             },
@@ -106,22 +90,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
-            },
-            "PDFsharp": {
-              "target": "Package",
-              "version": "[6.1.1, )"
-            },
-            "PdfTools": {
-              "target": "Package",
-              "version": "[1.7.5, )"
-            },
-            "SendGrid": {
-              "target": "Package",
-              "version": "[9.29.3, )"
-            },
-            "b2net": {
-              "target": "Package",
-              "version": "[0.7.5, )"
             }
           },
           "imports": [

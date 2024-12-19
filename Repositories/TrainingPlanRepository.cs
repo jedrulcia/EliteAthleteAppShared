@@ -10,8 +10,6 @@ using EliteAthleteAppShared.Contracts;
 using EliteAthleteAppShared.Data;
 using EliteAthleteAppShared.Models.TrainingExercise;
 using EliteAthleteAppShared.Models.TrainingPlan;
-using PdfSharp.Pdf;
-using PdfSharp.Drawing;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
 using Microsoft.IdentityModel.Tokens;
 using EliteAthleteAppShared.Models;
