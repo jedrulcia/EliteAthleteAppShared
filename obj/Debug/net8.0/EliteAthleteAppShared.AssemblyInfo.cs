@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EliteAthleteAppShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b3dabe28b7e138eb3cb69fb67f9ddc372f155d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EliteAthleteAppShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EliteAthleteAppShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
