@@ -2,8 +2,8 @@
 
 This repo contains the backend for the ASP.NET Core and .NET MAUI EliteAthleteApp application.
 
-ASP.NET Core application repo - [EliteAthleteApp](https://github.com/jedrulcia/EliteAthleteApp) 🔗  
-.NET MAUI application repo - [EliteAthleteAppMobile](https://github.com/jedrulcia/EliteAthleteAppMobile) 📱
+ASP.NET Core application repo - [EliteAthleteApp](https://github.com/jedrzejkoriat/EliteAthleteApp) 🔗  
+.NET MAUI application repo - [EliteAthleteAppMobile](https://github.com/jedrzejkoriat/EliteAthleteAppMobile) 📱
 
 ## 📦 **Preview**
 ![homepage](https://github.com/user-attachments/assets/a0b2cda1-126a-44c2-9054-bab49e387305)
